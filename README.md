@@ -74,5 +74,3 @@ A strong emphasis is placed on **recall**, due to the medical context.
 - Jupyter Notebook
 
 ---
-
-## 📁 Repository Structure
