@@ -1,0 +1,2 @@
+# Machine-Learning-Based-Diagnosis-of-COVID-19-Using-Clinical-and-Laboratory-Data
+Machine learning project focused on the diagnosis of COVID-19 using clinical and laboratory data. Includes professional EDA, preprocessing, statistical tests, feature engineering, model training, evaluation, and interpretability. Built to assist clinical decision making under noisy and incomplete medical data for academic and engineering use cases
